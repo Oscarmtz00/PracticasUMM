@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+ <html lang="es">
+	<head>
+	<meta charset="utf-8" />
+	<meta name="author" content="Oscar Martinez"/>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css" />
+	<title> Tarea 2 </title>
+	</head>
+	
+
+	<body>
+		<div id="wrapper">
+	
+	
+			<ul id="navbar">
+			<li><a href="Index.html"> Regresar a Inicio </a></li>
+			</ul>
+
+			<p>&nbsp;</p>
+			<h1> Peliculas </h1>
+		
+			<p class="normal"> <img class="imagender" src="CSS/Joker-790658206-large.jpg" width="268" height="385">
+			
+				<h3> Sinopsis </h3>
+				<p class="normal">Arthur Fleck es un payaso con una extraña enfermedad mental. Responsable del cuidado de su madre enferma, sueña con su propio espectáculo de stand up comedy. La situación no es favorable. Tanto su condición mental como su oficio lo hacen blanco frecuente de agresiones en ciudad Gótica, ciudad sumida en una profunda tensión social.
+							   Fleck es atacado en el metro por tres jóvenes ebrios, pero esta vez, decide ser el victimario. El triple asesinato, divulgado en los medios de comunicación, genera la simpatía de los ciudadanos. Al ver cómo el caos se precipita, el político Thomas Wayne, venerado por la madre de Fleck, anuncia su candidatura a alcalde. Pero ahora que el subestimado y mentalmente enfermo Arthur Fleck ha ganado popularidad, su vida y la de ciudad Gótica dan un giro radical.
+				</p>
+			</p>
+			<p class="normal">&nbsp;</p>
+			<p class="normal">&nbsp;</p>
+			<p class="normal">&nbsp;</p>
+			<h3> Trailer </h3>
+			<video src="CSS/Joker.mp4" width="640" height="480" controls></video>
+		</div>
+
+	</body>
+ </html>

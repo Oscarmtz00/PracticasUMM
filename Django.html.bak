@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+ <html lang="es">
+	<head>
+	<meta charset="utf-8" />
+	<meta name="author" content="Oscar Martinez"/>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css" />
+	<title> Peliculas-Django </title>
+	</head>
+	
+
+	<body>
+		<div id="wrapper">
+	
+	
+			<ul id="navbar">
+			<li><a href="Index.html"> Regresar a Inicio </a></li>
+			</ul>
+
+			<p>&nbsp;</p>
+			<h1> Peliculas </h1>
+		
+			<p class="normal"> <img class="imagender" src="CSS/Django_desencadenado-267443760-large.jpg" width="268" height="385">
+			
+				<h3> Sinopsis </h3>
+				<p class="normal">
+				En Texas, dos años antes de estallar la Guerra Civil Americana, King Schultz (Christoph Waltz), un cazarrecompensas alemán que sigue la pista a unos asesinos para
+				cobrar por sus cabezas, le promete al esclavo negro Django (Jamie Foxx) dejarlo en libertad si le ayuda a atraparlos. Él acepta, pues luego quiere ir a buscar a 
+				su esposa Broomhilda (Kerry Washington), esclava en una plantación del terrateniente Calvin Candie (Leonardo DiCaprio).
+				</p>
+			</p>
+			<p class="normal">&nbsp;</p>
+			<p class="normal">&nbsp;</p>
+			<p class="normal">&nbsp;</p>
+			<h3> Trailer </h3>
+			<video src="CSS/Joker.mp4" width="640" height="480" controls></video>
+		</div>
+
+	</body>
+ </html>
